@@ -1,4 +1,3 @@
-# Cloud-Journey
 
 Documenting my progression from IT support into cloud engineering and architecture.
 
@@ -41,4 +40,4 @@ Cloud / Solutions Architecture
 ---
 
 ## 🚀 Active Study Areas
-See `/00-roadmap/roadmap.md`
+[View Roadmap](./00-roadmap/roadmap.md)
